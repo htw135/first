@@ -2,7 +2,17 @@
 22222222222222222222222222222222222222222222
 333333333333333333333333333333333333333333333
 :wq
+4444444444444444444444444444444
+555555555555555555555555555555555
+:wq
 
+<<<<<<< HEAD
 sssssssssssssssssssssssssssssssssssssssssssss
 asddddddddddddddddd
 asddddddddddddddd 
+=======
+
+00222
+>>>>>>> branch 'master' of https://github.com/htw135/first.git
+
+asdddddddddddddddddddddddddddddddddddddddddddddddddddddddd
